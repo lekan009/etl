@@ -1,42 +1,44 @@
 {
   "project_info": {
-    "project_number": "",
-    "firebase_url": "",
-    "project_id": "",
-    "storage_bucket": ""
+    "project_number": "1002608346742",
+    "firebase_url": "https://etl-e5-lms.firebaseio.com",
+    "project_id": "etl-e5-lms",
+    "storage_bucket": "etl-e5-lms.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
+        "mobilesdk_app_id": "1:1002608346742:android:01edda4f08d735b618c157",
         "android_client_info": {
-          "package_name": "com.moodle.moodlemobile"
+          "package_name": "co.presentmaam.etl"
         }
       },
       "oauth_client": [
         {
-          "client_id": "",
+          "client_id": "1002608346742-ecbquauj9pbvjnqbacojci28cbm8g61a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": ""
-        },
-        {
-          "current_key": ""
+          "current_key": "AIzaSyDiqU2npBBZ19xgW2igvxFgETnCw9hYQo0"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002608346742-ecbquauj9pbvjnqbacojci28cbm8g61a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002608346742-q4edvs66hkl8u159fhb0qd6sv7cibui3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.presentmaam.etl"
+              }
+            }
+          ]
         }
       }
     }
